@@ -4,8 +4,8 @@
     xmlns="http://maven.apache.org/POM/4.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.honeywell</groupId>
-    <artifactId>greenhouse-ftpsync</artifactId>
+    <groupId>com.shilang</groupId>
+    <artifactId>shilang-ftpsync</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
     <parent>
